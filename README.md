@@ -1,3 +1,4 @@
+Status: Completed Academic / Hackathon Project
 # Sagar Darpan – AI Ocean Intelligence Platform
 
 Sagar Darpan is an AI-powered platform designed to provide insights into oceanography, fisheries, and marine biodiversity.
