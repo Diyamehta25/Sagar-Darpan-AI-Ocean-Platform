@@ -18,7 +18,25 @@ This project was developed as part of the Smart India Hackathon.
 - Interactive data insights
 
 ---
+## 📷 Screenshots
 
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Admin Panel
+![Admin](screenshots/Admin.png)
+
+### Chatbot
+![Chatbot](screenshots/Chatbot.png)
+
+### Fisherman Module
+![Fisherman](screenshots/Fisherman.png)
+
+### Research Module
+![Research](screenshots/Research.png)
+
+### Login Page
+![Login](screenshots/login.png)
 ## Technology Stack
 
 Frontend
